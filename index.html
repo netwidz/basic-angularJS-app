@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en" ng-app='demoApp'>
+  <head>
+    <meta charset="utf-8">
+    <title>AngularJS Demo</title>
+    <script src="js/lib/angular.min.js"></script>
+      <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <link href="css/bootstrap.css" rel="stylesheet" />
+  </head>
+  <body>
+     <div class="container" ng-controller="listController">
+       <div class="panel panel-primary">
+         <div class="panel-heading">
+            Product Directory
+         </div>
+         <div class="panel-body">
+            <label>Search : </label>
+            <input type="text" placeholder="Search for products" ng-model="query"/>
+            <label class="form-group">by :
+                <select ng-model="productOrder">
+                  <option value="name" selected>Name</option>
+                  <option value="price" >Price</option>
+                </select>
+
+            </label>
+            <label class="form-group">
+                <input type="radio" ng-model="direction" name="direction" checked/>Ascending
+            </label>
+            <label class="form-group">
+                <input type="radio" ng-model="direction" name="direction" value="reverse"/>Descending
+            </label>
+
+         </div>
+
+       </div>
+
+
+        <ul class="list-unstyled">
+            <li ng-repeat="item in products | filter:{name:query} | orderBy: productOrder:direction" class="clearfix">
+                <div class="row">
+                    <div class="col-md-9 col-md-push-3">
+                          <h2>{{item.name | uppercase}}</h2>
+                          <p class="lead">
+                              {{item.description}}
+                          </p>
+                          <small>SKU : {{item.sku}}</small>
+                          <h4 class="text-primary">Price : {{item.price | currency:"LKR " }}</h4>
+                    </div>
+                    <div class="col-md-3 col-md-pull-9">
+                        <img class="img-thumbnail" ng-src="images/{{item.image}}"/>
+                    </div>
+                </div>
+
+            </li>
+        </ul>
+     </div>
+
+  </body>
+  <script>
+
+
+  </script>
+
+</html>

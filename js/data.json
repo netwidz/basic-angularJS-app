@@ -1,0 +1,62 @@
+[
+  {
+    "name":"Samsung RT36 Refregirator",
+    "short" :  "5 star enery rating with digital inverter technology.",
+    "description": "5 star enery rating with digital inverter technology. 5 star enery rating with digital inverter technology. 5 star enery rating with digital inverter technology. 5 star enery rating with digital inverter technology. 5 star enery rating with digital inverter technology",
+    "price" : 90000.00,
+    "sku" : "SAMRT36",
+    "image" : "samrt36.jpg",
+     "createdate": "2014-05-09"
+  },
+  {
+    "name":"Apple iPhone 6S",
+    "short" :  "The moment you use iPhone 6s, you know you've never felt anything like it",
+    "description": "The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it. The moment you use iPhone 6s, you know you've never felt anything like it",
+    "price" : 120000.00,
+    "sku" : "IPN6S",
+    "image" : "iphone6s.jpeg",
+     "createdate": "2016-05-19"
+
+  },
+  {
+    "name":"Apple Watch",
+    "short" : "The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist.",
+    "description": "The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist. The Apple Watch is a smartwatch that operates as a small wearable computing device worn on a user's wrist.",
+    "price" : 60000.00,
+    "sku" : "APLWATCH",
+    "image" : "applwatch.jpg",
+     "createdate": "2015-05-09"
+  },
+  {
+    "name":"Apple TV",
+    "short": "Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device",
+    "description": "Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device. Apple TV is a digital media receiver that can play movies, television shows, videos, live sports, music, photo multimedia content and more on a widescreen TV from a computer or iOS-powered device",
+    "price" : 15000.00,
+    "sku" : "APLTV",
+    "image" : "appltv.jpg"
+  },
+  {
+    "name":"Samsung 32 inch TV",
+    "short": "Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users",
+    "description": "Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users. Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users. Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users. Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users. Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users. .Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users.Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users .Televisions that integrate the Internet and Web 2.0 features to provide a more interactive experience for users.",
+    "price" : 40000.00,
+    "sku" : "SAM32TV",
+    "image" : "samsung32.jpg"
+  },
+  {
+    "name":"Nikon D5300",
+    "short": "A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system.",
+    "description": "A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system. A digital camera stores images digitally rather than recording them on film. The pictures can be downloaded to a computer system.",
+    "price" : 80000.00,
+    "sku" : "NIKD5300",
+    "image" : "nikon-d5300.jpg"
+  },
+  {
+    "name":"FitBit Flex",
+    "short" : "Fitbit Flex Band is a small \"wearable computing\" device worn on a user's wrist powered by FitBit",
+    "description": "Fitbit Flex Band is a small \"wearable computing\" device worn on a user's wrist powered by FitBit. Fitbit Flex Band is a small \"wearable computing\" device worn on a user's wrist powered by FitBit. Fitbit Flex Band is a small \"wearable computing\" device worn on a user's wrist powered by FitBit. Fitbit Flex Band is a small \"wearable computing\" device worn on a user's wrist powered by FitBit",
+    "price" : 20000.00,
+    "sku" : "FITBITFLX",
+    "image" : "Fitbitflex.jpg"
+  }
+]
